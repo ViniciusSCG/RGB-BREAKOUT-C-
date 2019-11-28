@@ -8,7 +8,7 @@ Jogo feito durante um trabalho no segundo semestre do curso Análise e Desenvolv
 <li>Linkar a biblioteca SDL no compilador</li>
 <li>Abrir arquivo main.cpp</li>
 <li>Executar</li>
-<h2>PREVIEW</h2>
+<h2>Preview</h2>
 
 ![Preview](https://github.com/ViniciusSCG/RGB-BREAKOUT-SDL/blob/master/preview.gif)
 
